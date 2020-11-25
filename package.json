@@ -4,13 +4,13 @@
   "description": "",
   "main": "code-backup-PriorTesting.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "start": "node index.js",
     "express": "^4.17.1"
   }
 }
